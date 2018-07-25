@@ -43,6 +43,7 @@ This test seeks to understand your architecture concepts in AWS, looking at an e
 
 Looking at the image below, create a `part2.md` file with the technical description of the flow of this topology, according to your understanding.
 
+<img src="https://user-images.githubusercontent.com/29125605/29424258-5d7d5c2a-8355-11e7-9701-2fb26621b6b0.png" />
 ! [scenario-aws-test] (https://user-images.githubusercontent.com/29125605/29424258-5d7d5c2a-8355-11e7-9701-2fb26621b6b0.png)
 
 # Delivery
