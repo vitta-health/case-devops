@@ -1,0 +1,9 @@
+syntax: glob
+.DS_Store
+*.pyc
+*.orig
+*.db
+*htmlcov*
+.coverage
+node_modules
+yarn.lock
